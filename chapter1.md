@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Identify Outliers in PySpark
+
+```yaml
+type: VideoExercise
+key: f3fbddab54
+xp: 50
+```
+
+`@projector_key`
+8c9228fee571530d51eb77ae829b0125
