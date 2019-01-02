@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Identify Outliers in PySpark
+## Identifying Outliers in PySpark
 
 ```yaml
 type: VideoExercise
